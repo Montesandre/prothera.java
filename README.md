@@ -1,4 +1,3 @@
-```markdown
 # 📋 Projeto: planilha.java
 
 Oi, tudo bem? 😄  
@@ -51,11 +50,6 @@ Aqui vai o que tá rolando no projeto:
 
 ---
 
-## ✨ Dica
-
-Se estiver aprendendo Java, esse projeto pode ser uma boa base pra entender como organizar seus dados no mundo real. Dá pra brincar e adicionar novas regras, validações e até salvar os dados em arquivos depois! 💡
-
----
 
 Feito com 💻 e um pouco de café ☕  
 Se curtir, dá uma estrela no repositório ⭐  
