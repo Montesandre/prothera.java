@@ -51,7 +51,3 @@ Aqui vai o que tá rolando no projeto:
 ---
 
 
-Feito com 💻 e um pouco de café ☕  
-Se curtir, dá uma estrela no repositório ⭐  
-
-
